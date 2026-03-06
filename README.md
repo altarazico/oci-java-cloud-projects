@@ -45,6 +45,6 @@ Integrating generative AI with Java cloud systems.
 
 ## Author
 
-Ramzi Tarazi  
+Ramzi Al Tarazi  
 OCI Architect & Developer  
 Java | Oracle Cloud Infrastructure | GenAI Automation
